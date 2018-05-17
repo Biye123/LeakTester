@@ -1,0 +1,3 @@
+[submodule "LibSource"]
+	path = LibSource
+	url = git@github.com:Biye123/LibSource.git
